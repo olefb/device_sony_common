@@ -17,4 +17,4 @@ PRODUCT_COPY_FILES += \
 
 # Boot Logo
 PRODUCT_COPY_FILES += \
-     device/sony/common/logo_720x1280.rle:root/logo.rle
+     device/sony/common/logo_sony_720x1280.rle:root/logo.rle
